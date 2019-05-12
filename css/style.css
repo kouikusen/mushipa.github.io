@@ -1,6 +1,9 @@
+.mangabox {
+  text-align: center;
+}
 .mangaimg {
 
-  width: 100%;
+  width: 50%;
   margin-bottom: 40px;
 
 }
