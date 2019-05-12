@@ -4,3 +4,16 @@
   margin-bottom: 40px;
 
 }
+
+.portfolio-jumbo {
+  background: #20232d;
+}
+
+.portfolio-jumbo .display-4 {
+  font-weight: bold;
+  color: #ffe600;
+}
+
+.portfolio-jumbo p {
+  color: #828282;
+}
